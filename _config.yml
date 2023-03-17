@@ -38,9 +38,9 @@ features                                  :
     description                           : Just enjoy a quick game in between
     fontawesome_icon_name                 : fa-solid fa-couch
 
-  - title                                 : Grid
-    description                           : Play different sizes
-    fontawesome_icon_name                 : fa-solid fa-table-cells
+  - title                                 : No cost, no ads
+    description                           : Play for free
+    fontawesome_icon_name                 : fa-brands fa-app-store-ios
 
   - title                                 : More to come
     description                           : Many more features will come in the future
